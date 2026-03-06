@@ -1,5 +1,4 @@
-[![Open in Colab](https://colab.research.google.com/drive/1UyZFcLyEcOPRrUxCGmFLdVGwtydJuFbx?usp=sharing)]
-(https://colab.research.google.com/github/TU_USUARIO/Moving-average-backtest/blob/main/Moving_average_strategy_backtest.ipynb)
+https://colab.research.google.com/drive/1UyZFcLyEcOPRrUxCGmFLdVGwtydJuFbx?usp=sharing
 
 
 # Moving-average-backtest
